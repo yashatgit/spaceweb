@@ -15,7 +15,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@sprinklr/style-dictionary": "^2.2.1",
     "baseui": "^9.54.0"
   },
   "devDependencies": {
